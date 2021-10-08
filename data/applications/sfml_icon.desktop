@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Snake Game
+Exec=the_snake_game
+Comment=A snake game
+Terminal=false
+Icon=the_snake_game
+Type=Application
+
